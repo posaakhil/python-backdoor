@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#credits goes to @AKhil Hacker
+#!/usr/bin/python 
 import subprocess  #process commands
 import socket      #process socket Data
 
